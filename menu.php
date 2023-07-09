@@ -1,5 +1,7 @@
-<?php echo "DOG"; ?>
-<?php echo "ANT"; ?>
-<?php echo "CAT"; ?>
-<?php echo "BEA"; ?>
-<?php echo "GOD"; ?>
+<?php echo "my"; ?>
+<?php echo "y"; ?>
+
+<?php echo "C"; ?>
+<?php echo "M"; ?>
+
+<?php echo "I"; ?>
